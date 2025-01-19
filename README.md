@@ -1,10 +1,6 @@
-<!-- 
-  Add this content to your GitHub profile README (github.com/YourUsername/YourUsername)
--->
+<!-- Add this content to your GitHub profile README (github.com/YourUsername/YourUsername) -->
 
 # Hi there, I'm Pratiksha Dutta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-![Banner](https://img.freepik.com/free-vector/technology-background-with-gradient-colors_79603-1423.jpg?w=2000)
 
 **🎓 Motivated IT Student** at **LaSalle College**  
 **🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast**
@@ -12,6 +8,7 @@
 ---
 
 ## 🌟 About Me
+
 🌱 I’m actively seeking an **internship opportunity** with a forward-thinking company to contribute to impactful projects.  
 🔐 With a strong focus on **cybersecurity**, **software development**, **database management**, and **networking**, I’m passionate about solving complex problems and creating scalable solutions. My versatile skill set enables me to adapt to various domains and contribute effectively to team success.  
 📈 Highlights of my achievements include:  
@@ -19,7 +16,7 @@
 - **Elevated client satisfaction by 15%**  
 - Developed impactful **IoT, ML, and Web** projects.  
 
-I’m **bilingual (French & English)**, highly organized, and thrive in **team-oriented, agile environments**.  
+I’m **bilingual (French & English)**, highly organized, and thrive in **team-oriented, agile environments**.
 
 ---
 
