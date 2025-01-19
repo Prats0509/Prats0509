@@ -1,6 +1,10 @@
-<!-- Add this content to your GitHub profile README (github.com/YourUsername/YourUsername) -->
 
-# Hi there, I'm Pratiksha Dutta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<div align="center">
+    <img src="https://example.com/your-avatar-image.png" alt="Woman Illustration" width="150" align="left">
+    <h1>#Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+</div>
+
 
 **🎓 Motivated IT Student** at **LaSalle College**  
 **🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast**
