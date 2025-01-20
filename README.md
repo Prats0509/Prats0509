@@ -1,8 +1,8 @@
 
 
 <div align="center">
-    <img src="https://example.com/your-avatar-image.png" alt="Woman Illustration" width="150" align="left">
-    <h1>#Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+    <img src="[https://example.com/your-avatar-image.png](https://imgur.com/a/FbtXWTt)" alt="Woman Illustration" width="150" align="left">
+    <h1>Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 </div>
 
 
