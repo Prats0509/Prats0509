@@ -1,13 +1,14 @@
 <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
+    <div style="flex: 1; margin-right: 15px;">
         <h1 style="margin: 0;">Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
         <p><strong>🎓 Motivated IT Student</strong> at <strong>LaSalle College</strong></p>
         <p><strong>🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast</strong></p>
     </div>
-    <div style="flex: 0; margin-left: 15px;">
+    <div style="flex: 0;">
         <img src="https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg" alt="My Avatar" width="100">
     </div>
 </div>
+
 
 
 
