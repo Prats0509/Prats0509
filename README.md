@@ -1,10 +1,6 @@
+![My Avatar](https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg)
 
-
-<div align="center">
-    <img src="https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg" alt="My Avatar" width="150" align="left">
-    <h1>Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-</div>
-
+# Hi there, I'm Pratiksha Dutta! 👩‍💻 ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 **🎓 Motivated IT Student** at **LaSalle College**  
 **🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast**
