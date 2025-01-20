@@ -4,9 +4,6 @@
         <p><strong>🎓 Motivated IT Student</strong> at <strong>LaSalle College</strong></p>
         <p><strong>🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast</strong></p>
     </div>
-    <div style="flex: 0;">
-        <img src="https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg" alt="My Avatar" width="100">
-    </div>
 </div>
 
 
