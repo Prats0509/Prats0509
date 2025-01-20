@@ -9,7 +9,6 @@
 **🎓 Motivated IT Student** at **LaSalle College**  
 **🔒 Cybersecurity, Software Development, Database, and Networking Enthusiast**
 
----
 
 ## 🌟 About Me
 
