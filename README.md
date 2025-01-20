@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg" alt="My Avatar" width="100" style="margin-right: 15px;">
-    <h1 style="margin: 0;">Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+    <h1 style="margin: 0;">Hi there, I'm Pratiksha Dutta! 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><img src="https://github.com/Prats0509/Personal-Dynamic-Resume/blob/main/img/avatar.jpg" alt="My Avatar" width="100" style="margin-right: 15px;"></h1>
 </div>
 
 <p><strong>🎓 Motivated IT Student</strong> at <strong>LaSalle College</strong></p>
