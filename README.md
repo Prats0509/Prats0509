@@ -77,15 +77,6 @@ I’m **bilingual (French & English)**, highly organized, and thrive in **team-o
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prats0509&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prats0509&theme=radical" alt="GitHub Streak" width="50%">
-</p>
-
----
-
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratiksha%20Dutta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratiksha-dutta)  
