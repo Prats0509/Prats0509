@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-🌱 I’m actively seeking an **internship opportunity** with a forward-thinking company to contribute to impactful projects.  
+🌱 I’m actively seeking a **job opportunity** with a forward-thinking company to contribute to impactful projects.  
 🔐 With a strong focus on **cybersecurity**, **software development**, **database management**, and **networking**, I’m passionate about solving complex problems and creating scalable solutions. My versatile skill set enables me to adapt to various domains and contribute effectively to team success.  
 📈 Highlights of my achievements include:  
 - **Optimized security threat response times by 40%**  
